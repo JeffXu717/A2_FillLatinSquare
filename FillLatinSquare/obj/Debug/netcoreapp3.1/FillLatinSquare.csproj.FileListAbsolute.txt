@@ -1,0 +1,15 @@
+D:\Project\C#\FillLatinSquare\FillLatinSquare\bin\Debug\netcoreapp3.1\FillLatinSquare.exe
+D:\Project\C#\FillLatinSquare\FillLatinSquare\bin\Debug\netcoreapp3.1\FillLatinSquare.deps.json
+D:\Project\C#\FillLatinSquare\FillLatinSquare\bin\Debug\netcoreapp3.1\FillLatinSquare.runtimeconfig.json
+D:\Project\C#\FillLatinSquare\FillLatinSquare\bin\Debug\netcoreapp3.1\FillLatinSquare.runtimeconfig.dev.json
+D:\Project\C#\FillLatinSquare\FillLatinSquare\bin\Debug\netcoreapp3.1\FillLatinSquare.dll
+D:\Project\C#\FillLatinSquare\FillLatinSquare\bin\Debug\netcoreapp3.1\FillLatinSquare.pdb
+D:\Project\C#\FillLatinSquare\FillLatinSquare\obj\Debug\netcoreapp3.1\FillLatinSquare.csprojAssemblyReference.cache
+D:\Project\C#\FillLatinSquare\FillLatinSquare\obj\Debug\netcoreapp3.1\FillLatinSquare.Form1.resources
+D:\Project\C#\FillLatinSquare\FillLatinSquare\obj\Debug\netcoreapp3.1\FillLatinSquare.csproj.GenerateResource.cache
+D:\Project\C#\FillLatinSquare\FillLatinSquare\obj\Debug\netcoreapp3.1\FillLatinSquare.AssemblyInfoInputs.cache
+D:\Project\C#\FillLatinSquare\FillLatinSquare\obj\Debug\netcoreapp3.1\FillLatinSquare.AssemblyInfo.cs
+D:\Project\C#\FillLatinSquare\FillLatinSquare\obj\Debug\netcoreapp3.1\FillLatinSquare.csproj.CoreCompileInputs.cache
+D:\Project\C#\FillLatinSquare\FillLatinSquare\obj\Debug\netcoreapp3.1\FillLatinSquare.dll
+D:\Project\C#\FillLatinSquare\FillLatinSquare\obj\Debug\netcoreapp3.1\FillLatinSquare.pdb
+D:\Project\C#\FillLatinSquare\FillLatinSquare\obj\Debug\netcoreapp3.1\FillLatinSquare.genruntimeconfig.cache
